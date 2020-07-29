@@ -21,7 +21,7 @@ url = "https://github.com/threefoldfoundation/blog_projects"
 path = ""
 autocommit = false
 branch = "development"
-branchswitch = true
+branchswitch = false
 srcdir = ""
 #environment name (for example:  production, staging, testing)
 environment = ""
