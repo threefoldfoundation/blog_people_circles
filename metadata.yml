@@ -1,0 +1,40 @@
+blog_title: "ThreeFold Blog"
+blog_description: ""
+blog_logo: logo.svg"
+author_name: ""
+author_email: ""
+author_image_filename: ""
+posts_dir: "posts"
+pages_dir: "pages"
+images_dir: "assets/images"
+github_username: ""
+posts_per_page: 6
+allow_disqus: false
+
+sidebar_links:
+  - title: google
+    link: https://google.com
+  - title: yahoo
+    link: https://yahoo.com
+
+sidebar_social_links:
+  - link: https://www.facebook.com/threefold.io/
+    faclass: fab fa-facebook fa-2x
+    colorcode: #3b5998
+  - link: https://twitter.com/threefold_io
+    faclass: fab fa-twitter fa-2x
+    colorcode: #00acee
+  - link: https://www.linkedin.com/company/threefold-foundation/
+    faclass: fab fa-linkedin fa-2x
+    colorcode: #0072b1
+  - link: https://t.me/threefoldnews
+    faclass: fab fa-telegram fa-2x
+    colorcode: black
+
+nav_links:
+  - title: about
+    page: about.md
+  - title: contact us
+    page: contactus.md
+  - title: foundation link
+    link: https://threefold.io
